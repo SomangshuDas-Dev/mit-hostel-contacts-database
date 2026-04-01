@@ -1,5 +1,5 @@
 function submitEmail() {
-  const webAppURL = "https://script.google.com/macros/s/AKfycbzJjsiiVWOw67oeE5Of8DB1pB-fqyln16Gf3X6ScnsfGv9nJyQw-mtC_PkvZNgEt-bOUg/exec";
+  const webAppURL = "https://script.google.com/macros/s/AKfycbzhS4mu0DO1b-SdGmKrk-DwmDDIV8REPNVm0Z0Xsyxq3Vhu13O0hh9oz8ZCmR9sxDOefA/exec";
   const emailInput = document.getElementById('email');
   const email = emailInput.value.trim();
   const msg = document.getElementById('message');
